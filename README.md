@@ -1,5 +1,4 @@
 <h1 align="center">"PhoneNet" Mobile E-Commerce</h1>
-<h3 align="center">Maktab63 Final Project - Mohammad Reza Ebrahimi</h3>
 <p align="center">Mobile store project (e-commerce) created with React js and Redux with back and json-server<p>
   
 </br><h2></h2></br>
